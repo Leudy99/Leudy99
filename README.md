@@ -1,47 +1,55 @@
-# 💫 About Me
+## 🧠 About Me
 
-Hi! I'm Leudy Luna, a Systems Engineering student from the Dominican Republic 🇩🇴  
-with a strong focus on continuous learning and steady improvement.
-
-I’m passionate about technology and driven by the goal of becoming a well-prepared
-software developer, contributing to projects that create real and positive impact.
-
-Currently, I’m strengthening my foundations by learning new technologies and
-improving my skills step by step, with consistency and purpose.
+- 🎓 Systems Engineering student
+- 🌱 Focused on continuous learning and consistency
+- 🎯 Interested in building well-structured and maintainable software
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+### Backend / Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D42029?style=flat&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/leudy-luna-1bb9a316a/" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/leudy-luna-1bb9a316a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Leudy99" target="_blank">
+  <a href="https://github.com/Leudy99">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)
