@@ -9,7 +9,7 @@
 
 ## 🛠 Tech Stack
 
-### Frontend
+#### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -17,21 +17,21 @@
   <img src="https://img.shields.io/badge/JavaScript-D4B400?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-### Backend / Languages
+#### Backend / Languages
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-### Databases
+#### Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Tools & Design
+#### Tools & Design
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white"/>
