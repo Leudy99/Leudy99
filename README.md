@@ -11,18 +11,6 @@ y fortaleciendo mis habilidades paso a paso.
 
 ---
 
-## 🤝 Let’s Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/leudy-luna-1bb9a316a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Leudy99" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## 💻 Tech Stack
 
@@ -38,6 +26,19 @@ y fortaleciendo mis habilidades paso a paso.
   <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/leudy-luna-1bb9a316a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Leudy99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
