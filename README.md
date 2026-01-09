@@ -45,4 +45,4 @@ y fortaleciendo mis habilidades paso a paso.
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
