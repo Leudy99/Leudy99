@@ -1,16 +1,15 @@
 # 💫 About Me
 
-¡Hola! Soy Leudy Luna, estudiante de Ingeniería en Sistemas de República Dominicana 🇩🇴  
-con un fuerte interés por el aprendizaje continuo y la mejora constante.
+Hi! I'm Leudy Luna, a Systems Engineering student from the Dominican Republic 🇩🇴  
+with a strong focus on continuous learning and steady improvement.
 
-Me apasiona la tecnología y me motiva el objetivo de convertirme en un desarrollador de software
-bien preparado, participando en proyectos que generen impacto positivo.
+I’m passionate about technology and driven by the goal of becoming a well-prepared
+software developer, contributing to projects that create real and positive impact.
 
-Actualmente me encuentro en un proceso continuo de aprendizaje, explorando nuevas tecnologías
-y fortaleciendo mis habilidades paso a paso.
+Currently, I’m strengthening my foundations by learning new technologies and
+improving my skills step by step, with consistency and purpose.
 
 ---
-
 
 ## 💻 Tech Stack
 
