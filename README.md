@@ -3,6 +3,7 @@
 - 🎓 Software Engineer (In progress)
 - 🌱 Focused on continuous learning and consistency
 - 🎯 Interested in building well-structured and maintainable software
+- 🧩 Motivated by understanding *why* things work, not just how
 
 ---
 
