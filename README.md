@@ -1,6 +1,6 @@
 # 💫 About Me
 
-¡Hola! Soy Leudy Luna, estudiante de Ingeniería en Sistemas de 24 años de República Dominicana 🇩🇴  
+¡Hola! Soy Leudy Luna, estudiante de Ingeniería en Sistemas de República Dominicana 🇩🇴  
 con un fuerte interés por el aprendizaje continuo y la mejora constante.
 
 Me apasiona la tecnología y me motiva el objetivo de convertirme en un desarrollador de software
