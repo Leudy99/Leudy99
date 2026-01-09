@@ -48,9 +48,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -60,16 +58,20 @@
 
 ## 🤝 Let’s Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/leudy-luna-1bb9a316a/">
+<p style="display:inline-flex; gap:10px;">
+  <a href="https://www.linkedin.com/in/leudy-luna-1bb9a316a/"
+     style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/Leudy99">
+
+  <a href="https://github.com/Leudy99"
+     style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
+
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true)
