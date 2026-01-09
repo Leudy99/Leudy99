@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-- 🎓 Systems Engineering student
+- 🎓 Software Engineer (In progress)
 - 🌱 Focused on continuous learning and consistency
 - 🎯 Interested in building well-structured and maintainable software
 
