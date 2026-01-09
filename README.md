@@ -51,7 +51,4 @@
 ---
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)
-
-
-
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&border=true)
